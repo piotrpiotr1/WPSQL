@@ -1,1 +1,1 @@
-Some SQL wp
+Some SQL wordpress querys
